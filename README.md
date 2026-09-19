@@ -1,1 +1,1 @@
-Clipary release artifacts
+Clipary Beta Test Release
